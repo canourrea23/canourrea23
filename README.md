@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=canourrea23&&show_icons=true&theme=tokyonight&title_color=ffffff&icon_color=bb2acf&text_color=1E90FF&bg_color=151515&circle_color=151515"/>
+
 <!--
 **canourrea23/canourrea23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
