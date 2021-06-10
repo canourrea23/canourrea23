@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://res.cloudinary.com/carolinaurrea/image/upload/v1623308837/Screen_Shot_2021-06-10_at_2.04.28_AM_qyyjyl.png"/>
+<img src="https://github-readme-stats.vercel.app/api?username=canourrea23&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=1E90FF&bg_color=151515&circle_color=151515"/>
 
 <!--
 **canourrea23/canourrea23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
