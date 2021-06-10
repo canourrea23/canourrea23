@@ -1,5 +1,30 @@
 ### Hi there 👋
 
+```
+const carolina = {
+  code: [Javascript, HTML, CSS],
+  tools: [React, Node],
+  tech: {
+        frontEnd: ["ReactJS", "Bootstrap"], 
+        backEnd: ["Django", "NodeJS"],
+        databases: ["PostgreSQL", "MongoDB"]
+        }
+   learning: ["Python"]
+}
+
+currentProject = () => ({
+  axios("carolinaurrearestrepo.com")
+  .then(progress) {
+      progress.task = "Fullstack Developer"
+      progress.techUsed = ["React"]
+  }
+  .catch((err) => {
+      throw err;
+  })
+})
+
+
+```
 <img src="https://github-readme-stats.vercel.app/api?username=canourrea23&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=1E90FF&bg_color=151515&circle_color=151515"/>
 
 <!--
