@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-```
+```javaScript
 const carolina = {
   code: [Javascript, HTML, CSS],
   tools: [React, Node],
@@ -25,8 +25,8 @@ currentProject = () => ({
 
 
 ```
-<img src="https://github-readme-stats.vercel.app/api?username=canourrea23&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=1E90FF&bg_color=151515&circle_color=151515"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=canourrea23&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=1E90FF&bg_color=151515&circle_color=151515" alt="Carolina's Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canourrea23&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Carolina's Langs used"/>
 <!--
 **canourrea23/canourrea23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
