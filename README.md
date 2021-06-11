@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![Linkedin: carolina](https://img.shields.io/badge/-CURES-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolina-urrea-restrepo/)](https://www.linkedin.com/in/carolina-urrea-restrepo/)
+[![GitHub CURES](https://img.shields.io/github/followers/canourrea23?label=follow&style=social)](https://github.com/canourrea23)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://carolinaurrearestrepo.com/)](http://carolinaurrearestrepo.com/)
+![](https://visitor-badge.glitch.me/badge?page_id=CURES.CURES)
+
+
 ```javaScript
 const carolina = {
   code: [Javascript, HTML, CSS],
