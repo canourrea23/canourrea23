@@ -22,11 +22,19 @@ currentProject = () => ({
       throw err;
   })
 })
-
-
 ```
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=canourrea23&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=1E90FF&bg_color=151515&circle_color=151515" alt="Carolina's Stats"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canourrea23&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Carolina's Langs used"/>
+### Github Stats
+<a href="https://github.com/canourrea23/canourrea23">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=canourrea23&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=1E90FF&bg_color=151515&circle_color=151515" alt="Carolina's Stats"/>
+</a>
+
+<a href="https://github.com/canourrea23/canourrea23">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canourrea23&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Carolina's Langs used"/>
+</a>
+
+
+
+
 <!--
 **canourrea23/canourrea23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
